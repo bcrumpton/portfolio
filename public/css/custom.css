@@ -598,7 +598,7 @@ a:focus{
 }
 
 .single-portfolio-overlay h2{
-	margin-top: 40%;
+	/*margin-top: 40%;*/
 	font-size: 18px;
 	font-weight: 700;
 	color: #fff;
@@ -626,7 +626,7 @@ a:focus{
 }
 
 .single-portfolio:hover .single-portfolio-overlay h2{
-	margin-top:30%;
+	margin-top:20%;
 }
 
 /* Portfolio Popup start */
