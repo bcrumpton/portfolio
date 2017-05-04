@@ -24,7 +24,7 @@
 	}
 
 
-	$EmailTo = "support@awaiken.com"; // Replace with your email.
+	$EmailTo = "bcrumpton72@gmail.com"; // Replace with your email.
 	$Subject = "New Message Received";
 
 	// prepare email body text
